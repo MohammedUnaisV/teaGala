@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353321633036",
+    "project_id": "teagala-ab0bd",
+    "storage_bucket": "teagala-ab0bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353321633036:android:9ef07ca2c3809b5ef97529",
+        "android_client_info": {
+          "package_name": "com.example.teagala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDreGAUBvYn9qSEC32iAC9zOTrptgNFZj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
